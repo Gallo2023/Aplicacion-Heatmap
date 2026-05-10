@@ -13,4 +13,6 @@ con sus variables relacionadas.
 <img src="./HeatmapPWBI01.png" width="500"/>
 
 ## 🚀 Tecnologías
-- Power BI
+- Power BI desktop.
+
+##### Gabriel Gallardo
