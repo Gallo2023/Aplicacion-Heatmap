@@ -16,3 +16,4 @@ con sus variables relacionadas.
 - Power BI desktop.
 
 ##### Gabriel Gallardo
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/gerardo-gabriel-gallardo-12619ab5)
