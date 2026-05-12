@@ -15,5 +15,5 @@ con sus variables relacionadas.
 ## 🚀 Tecnologías
 - Power BI desktop.
 
-##### Gabriel Gallardo
+##### 👨‍💻 Gabriel Gallardo
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gerardo-gabriel-gallardo-12619ab5)
